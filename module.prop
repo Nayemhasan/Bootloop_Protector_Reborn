@@ -1,0 +1,6 @@
+id=bootloop_protector_reborn
+name=Magisk Bootloop Protector
+version=v01
+versionCode=1
+author=🍉
+description=Protect your system from bootloop caused by Magisk modules
