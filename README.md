@@ -7,7 +7,7 @@ This module protect's your system from bootloop caused by Magisk modules. In cas
 Use the latest [Magisk](https://magiskmanager.com/) manager
 
 ## How to use?
-<p align="left">
+- <p align="left">
   <img src="https://img.shields.io/github/downloads/Nayemhasan/Bootloop_Protector_Reborn/total?style=social">
 </p>
 
