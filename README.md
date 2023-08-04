@@ -1,4 +1,7 @@
 # Bootloop Protector Reborn
+<p align="left">
+  <img src="https://img.shields.io/github/downloads/Nayemhasan/Bootloop_Protector_Reborn/total?style=social">
+</p>
 
 ## Why is this module?
 This module protect's your system from bootloop caused by Magisk modules. In case the data partition is encrypted and you cannot access `/data/adb/modules`, or you don't want to turn off **force encryption** because when your phone with **force encryption** disabled is stolen, thief can copy your `/data` and your private data will be exposed!!! 
@@ -10,10 +13,7 @@ Use the latest [Magisk](https://magiskmanager.com/) manager
 
  - flash the latest [release](https://github.com/Nayemhasan/Bootloop_Protector_Reborn/releases)
  - reboot and profit*
- - <p align="left">
-  <img src="https://img.shields.io/github/downloads/Nayemhasan/Bootloop_Protector_Reborn/total?style=social">
-</p>
-
+ 
 ## Usage
 
 ### Auto detect
